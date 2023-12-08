@@ -1,5 +1,5 @@
 ---
-title: About your personal dashboard
+title: Web Hosting in Pakistan and Domain registration at low price
 redirect_from:
   - /hidden/about-improved-navigation-to-commonly-accessed-pages-on-github
   - /articles/opting-into-the-public-beta-for-a-new-dashboard
@@ -8,7 +8,7 @@ redirect_from:
   - /github/setting-up-and-managing-your-github-user-account/managing-user-account-settings/about-your-personal-dashboard
   - /account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/about-your-personal-dashboard
   - /account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/about-your-personal-dashboard
-intro: 'You can visit your personal dashboard to keep track of issues and pull requests you''re working on or following, navigate to your top repositories and team pages, stay updated on recent activities in organizations and repositories you''re subscribed to, and explore recommended repositories.'
+intro: 'Unlock the potential of your online presence with our premium web hosting services in Pakistan! DND Aims offers reliable and affordable hosting packages, tailored to suit businesses of all sizes and individual needs. Benefit from high-speed connectivity, top-notch security features, and 24/7 customer support. Choose a plan that fits your budget and elevates your online experience. Visit our website now to explore our hosting solutions and take your digital presence to new heights!'
 versions:
   fpt: '*'
   ghes: '*'
@@ -21,9 +21,10 @@ shortTitle: Your personal dashboard
 
 ## Accessing your personal dashboard
 
-Your personal dashboard is the first page you'll see when you sign in on {% data variables.product.product_name %}.
+Introduction:
 
-To access your personal dashboard once you're signed in, click the {% octicon "mark-github" aria-label="The github octocat logo" %} in the upper-left corner of any page on {% data variables.product.product_name %}.
+In the rapidly evolving digital landscape, having a strong online presence is crucial for individuals and businesses alike. Web hosting plays a pivotal role in ensuring a seamless and reliable online experience. DND Aims, a prominent player in the web hosting industry, stands out for offering top-notch services at a remarkably low price in Pakistan.
+{% data variables.product.product_name %}.
 
 ## Finding your recent activity
 
